@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "+91 93824 00759",
   OWNER_NAME: "『 𝐌𝐫 𝐒𝐨𝐮𝐦𝐲𝐚𝐝𝐢𝐩 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  ZUSYCO_FILE : "ZUSYCO-QR.nima",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
